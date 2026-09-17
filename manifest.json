@@ -1,0 +1,9 @@
+{
+  "name": "Race to 1000 \u2013 Messi vs Ronaldo",
+  "short_name": "Race to 1000",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#101318",
+  "theme_color": "#101318",
+  "description": "Messi vs Ronaldo road to 1,000 official career goals."
+}
